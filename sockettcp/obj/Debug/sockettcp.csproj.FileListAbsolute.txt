@@ -1,0 +1,15 @@
+D:\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.exe.config
+D:\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.exe
+D:\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.pdb
+D:\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.csproj.AssemblyReference.cache
+D:\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.csproj.CoreCompileInputs.cache
+D:\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.exe
+D:\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.pdb
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.csproj.AssemblyReference.cache
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.csproj.CoreCompileInputs.cache
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.exe
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\obj\Debug\sockettcp.pdb
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.exe.config
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.exe
+C:\Users\nhurtado\Downloads\TRANSACT\Transact\sockettcp\sockettcp\bin\Debug\sockettcp.pdb
